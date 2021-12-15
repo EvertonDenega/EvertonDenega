@@ -1,4 +1,7 @@
-## Olá!
+## Hello!
+
+Started on 6-DEC-21
+
 <div align="center">
   <a href="https://github.com/DenegaSouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenegaSouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
